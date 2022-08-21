@@ -16,7 +16,7 @@
 </div>
 <br/>
 <p>Neste github o rank das linguagens mais usadas.</p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-souza3&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-souza3&layout=compact&langs_count=9&theme=dark"/>
 
 
 
