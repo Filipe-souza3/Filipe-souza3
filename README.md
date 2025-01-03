@@ -1,4 +1,4 @@
-<h3>Olá, meu nome é Filipe 😄</h3>
+<h3>Olá 😄</h3>
 <p>Espero que ache algo interessante nesse github.</p>
 <p>Abaixo algumas tecnologias que já utilizei.</p>
 
